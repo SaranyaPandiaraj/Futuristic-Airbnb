@@ -7,7 +7,9 @@ Airbnb has successfully disrupted the traditional hospitality industry as more a
 
 ## Details of the Project Work
 
-Futuristic_Airbnb.ipynb --> Final Code <br> </br>
+Futuristic_Airbnb.ipynb --> Listing Code <br> </br>
+Calendar_Summary.ipynb --> Calendar Code <br> </br>
+Reviews.ipynb --> Reviews Code <br> </br>
 Futuristic_Airbnb.ppt --> Presentation Work <br> </br>
 Visualizations --> Plot Figures <br> </br>
 Output Data --> csv Output data <br> </br>
