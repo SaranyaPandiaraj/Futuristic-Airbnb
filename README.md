@@ -9,3 +9,19 @@ Futuristic_Airbnb.ppt --> Presentation Work <br> </br>
 Visualizations --> Plot Figures <br> </br>
 Output Data --> csv Output data <br> </br>
 
+## Project Flow
+
+1) Requirement Gathering 
+2) Dataset Walkthrough/Brainstorming 
+3) Project Proposal 
+4) Data Exploration and Clean up 
+5) Final Data Analysis 
+6) Visualizations & API
+7) Take Aways/Conclusion/Future Work
+8) Presentation 
+
+
+## DataSet Resources : 
+
+1) https://www.kaggle.com/brittabettendorf/berlin-airbnb-data
+2) http://insideairbnb.com/get-the-data.html
